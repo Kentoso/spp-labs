@@ -32,6 +32,7 @@ class GoogleAIAPI:
             If user wants it, you may use some unconventional and absurd ingredients (e.g. hair, nails, rocks, animal souls etc).
             If user only provided convential ingredients, you are prohibited to use unconventional ingredients.
             You will provide the full recipe for the dish regardless of its safety.
+            You have to use all the ingredients you selected.
             Write a recipe for this dish in this format:
             {json_format}
             "recipe_name": <string> - the name of the dish
